@@ -1,7 +1,7 @@
-package example
+package prueba
 
 import "github.com/gopherguides/greet"
 
-func Example() {
+func Saludo() {
 	greet.Hello()
 }
